@@ -3,7 +3,7 @@
 Tema Wordpress - Landing Page Para Evento de Decoração de Ambientes
 Versão - 1.0
 
-****
+***
  
  ### Frameworks e Bibliotecas
 
